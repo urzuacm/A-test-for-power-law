@@ -40,7 +40,7 @@ Given a vector *x* of data, the statistic **pwlaw** proposed in Urzúa (2020) ca
 
 ## Bibliography
 
-Clauset, A. Power-law distributions. 2019. <https://aaronclauset.github.io/powerlaws/>
+Clauset, A. 2019. Power-law distributions. <https://aaronclauset.github.io/powerlaws/>
 
 Clauset, A., C. R. Shalizi, and M. E. J. Newman. 2009. Power-law distributions in empirical data. *SIAM Review*, vol. 51, pp. 661–703. 
 
